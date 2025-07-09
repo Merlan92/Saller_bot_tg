@@ -4,3 +4,7 @@ DB_URL = 'postgresql://neondb_owner:npg_zSOewByG8a1j@ep-round-silence-a9a0ls8t-p
 
 SELLER_PASSWORD = "seller222"
 DIRECTOR_PASSWORD = "director222"
+
+# git add config.py
+# git commit -m "Fix: restore config.py"
+# git push
